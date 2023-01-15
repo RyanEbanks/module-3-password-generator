@@ -64,7 +64,7 @@ function generatePassword() {
     }
 
     // Based on the length of the character choice
-    for (var i = 1; i <= choiceLength; i++) {
+    for (var x = 1; x <= choiceLength; x++) {
       // Stores auto password string in result and gets random characters from the autopassword string
       result += autoPassword.charAt(Math.floor(Math.random() * autoPassword.length));
     }
