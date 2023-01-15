@@ -1,7 +1,7 @@
 # module-3-password-generator
 
 ## Deployment Link
-[Click Here!]()
+[Click Here!](https://ryanebanks.github.io/module-3-password-generator/)
 
 ## Description
 This challenge requires me to modify starter code to create an online application to generate a random password based on set criteria.
